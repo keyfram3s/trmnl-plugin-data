@@ -2,12 +2,139 @@
   "_meta": {
     "version": "fixed-31days-v2",
     "notes": "31-day test data with matching Day/index and double-curly name placeholders.",
-    "generated": "2025-06-21 22:25:48"
+    "generated": "2025-06-21 22-56-18"
   },
   "user_stage_map": {
-    "*:*:*": 0
+    "::*": 0,
+    "confused:manual:*": 30
   },
   "backgrounds": {
+    "manual": [
+      {
+        "url": "https://files.catbox.moe/dtp0yh.png",
+        "text": "Day 0: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/vbby7a.png",
+        "text": "Day 1: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/n2lp7d.png",
+        "text": "Day 2: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/ht7fth.png",
+        "text": "Day 3: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/w2d98b.jpg",
+        "text": "Day 4: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/09ui4r.jpeg",
+        "text": "Day 5: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/36lvqh.png",
+        "text": "Day 6: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/ppn14a.png",
+        "text": "Day 7: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/jmsqg1.png",
+        "text": "Day 8: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/hyn45n.png",
+        "text": "Day 9: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/9olm0c.png",
+        "text": "Day 10: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/81cukz.jpg",
+        "text": "Day 11: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/q3xz5n.png",
+        "text": "Day 12: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/x4rf3f.png",
+        "text": "Day 13: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/7n8maz.png",
+        "text": "Day 14: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/jz28fj.png",
+        "text": "Day 15: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/6cfw0f.png",
+        "text": "Day 16: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/683tx1.png",
+        "text": "Day 17: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/yqngmf.png",
+        "text": "Day 18: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/7wthcx.png",
+        "text": "Day 19: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/h6xpez.png",
+        "text": "Day 20: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/ora8ub.png",
+        "text": "Day 21: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/hih4x9.png",
+        "text": "Day 22: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/za4g3o.png",
+        "text": "Day 23: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/dk2gx9.png",
+        "text": "Day 24: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/upsw8s.png",
+        "text": "Day 25: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/esv1c5.jpg",
+        "text": "Day 26: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/g1c5yx.png",
+        "text": "Day 27: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/wkfwbi.png",
+        "text": "Day 28: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/fo868f.png",
+        "text": "Day 29: Transmission log from manual."
+      },
+      {
+        "url": "https://files.catbox.moe/akra2i.png",
+        "text": "Day 30: Transmission log from manual."
+      }
+    ],
     "external": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
@@ -510,132 +637,6 @@
       {
         "url": "https://files.catbox.moe/akra2i.png",
         "text": "Day 30: Transmission log from control room."
-      }
-    ],
-    "manual": [
-      {
-        "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 0: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 1: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 2: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 3: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 4: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 5: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 6: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 7: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 8: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 9: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 10: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 11: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 12: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 13: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 14: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 15: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 16: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 17: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 18: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 19: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 20: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 21: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 22: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 23: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 24: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 25: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 26: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 27: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 28: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 29: Transmission log from manual."
-      },
-      {
-        "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 30: Transmission log from manual."
       }
     ]
   },
