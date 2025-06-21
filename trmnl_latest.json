@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "version": "fixed-31days-v1",
-    "notes": "Full 31-day test data with double-curly name placeholders.",
-    "generated": "2025-06-21 22:23:54"
+    "version": "fixed-31days-v2",
+    "notes": "31-day test data with matching Day/index and double-curly name placeholders.",
+    "generated": "2025-06-21 22:25:48"
   },
   "user_stage_map": {
     "*:*:*": 0
@@ -11,757 +11,757 @@
     "external": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 1: Transmission log from external."
+        "text": "Day 0: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 2: Transmission log from external."
+        "text": "Day 1: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 3: Transmission log from external."
+        "text": "Day 2: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 4: Transmission log from external."
+        "text": "Day 3: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 5: Transmission log from external."
+        "text": "Day 4: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 6: Transmission log from external."
+        "text": "Day 5: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 7: Transmission log from external."
+        "text": "Day 6: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 8: Transmission log from external."
+        "text": "Day 7: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 9: Transmission log from external."
+        "text": "Day 8: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 10: Transmission log from external."
+        "text": "Day 9: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 11: Transmission log from external."
+        "text": "Day 10: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 12: Transmission log from external."
+        "text": "Day 11: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 13: Transmission log from external."
+        "text": "Day 12: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 14: Transmission log from external."
+        "text": "Day 13: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 15: Transmission log from external."
+        "text": "Day 14: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 16: Transmission log from external."
+        "text": "Day 15: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 17: Transmission log from external."
+        "text": "Day 16: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 18: Transmission log from external."
+        "text": "Day 17: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 19: Transmission log from external."
+        "text": "Day 18: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 20: Transmission log from external."
+        "text": "Day 19: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 21: Transmission log from external."
+        "text": "Day 20: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 22: Transmission log from external."
+        "text": "Day 21: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 23: Transmission log from external."
+        "text": "Day 22: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 24: Transmission log from external."
+        "text": "Day 23: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 25: Transmission log from external."
+        "text": "Day 24: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 26: Transmission log from external."
+        "text": "Day 25: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 27: Transmission log from external."
+        "text": "Day 26: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 28: Transmission log from external."
+        "text": "Day 27: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 29: Transmission log from external."
+        "text": "Day 28: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 30: Transmission log from external."
+        "text": "Day 29: Transmission log from external."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 31: Transmission log from external."
+        "text": "Day 30: Transmission log from external."
       }
     ],
     "internal": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 1: Transmission log from internal."
+        "text": "Day 0: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 2: Transmission log from internal."
+        "text": "Day 1: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 3: Transmission log from internal."
+        "text": "Day 2: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 4: Transmission log from internal."
+        "text": "Day 3: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 5: Transmission log from internal."
+        "text": "Day 4: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 6: Transmission log from internal."
+        "text": "Day 5: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 7: Transmission log from internal."
+        "text": "Day 6: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 8: Transmission log from internal."
+        "text": "Day 7: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 9: Transmission log from internal."
+        "text": "Day 8: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 10: Transmission log from internal."
+        "text": "Day 9: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 11: Transmission log from internal."
+        "text": "Day 10: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 12: Transmission log from internal."
+        "text": "Day 11: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 13: Transmission log from internal."
+        "text": "Day 12: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 14: Transmission log from internal."
+        "text": "Day 13: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 15: Transmission log from internal."
+        "text": "Day 14: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 16: Transmission log from internal."
+        "text": "Day 15: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 17: Transmission log from internal."
+        "text": "Day 16: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 18: Transmission log from internal."
+        "text": "Day 17: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 19: Transmission log from internal."
+        "text": "Day 18: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 20: Transmission log from internal."
+        "text": "Day 19: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 21: Transmission log from internal."
+        "text": "Day 20: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 22: Transmission log from internal."
+        "text": "Day 21: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 23: Transmission log from internal."
+        "text": "Day 22: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 24: Transmission log from internal."
+        "text": "Day 23: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 25: Transmission log from internal."
+        "text": "Day 24: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 26: Transmission log from internal."
+        "text": "Day 25: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 27: Transmission log from internal."
+        "text": "Day 26: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 28: Transmission log from internal."
+        "text": "Day 27: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 29: Transmission log from internal."
+        "text": "Day 28: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 30: Transmission log from internal."
+        "text": "Day 29: Transmission log from internal."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 31: Transmission log from internal."
+        "text": "Day 30: Transmission log from internal."
       }
     ],
     "drone": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 1: Transmission log from drone."
+        "text": "Day 0: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 2: Transmission log from drone."
+        "text": "Day 1: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 3: Transmission log from drone."
+        "text": "Day 2: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 4: Transmission log from drone."
+        "text": "Day 3: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 5: Transmission log from drone."
+        "text": "Day 4: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 6: Transmission log from drone."
+        "text": "Day 5: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 7: Transmission log from drone."
+        "text": "Day 6: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 8: Transmission log from drone."
+        "text": "Day 7: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 9: Transmission log from drone."
+        "text": "Day 8: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 10: Transmission log from drone."
+        "text": "Day 9: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 11: Transmission log from drone."
+        "text": "Day 10: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 12: Transmission log from drone."
+        "text": "Day 11: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 13: Transmission log from drone."
+        "text": "Day 12: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 14: Transmission log from drone."
+        "text": "Day 13: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 15: Transmission log from drone."
+        "text": "Day 14: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 16: Transmission log from drone."
+        "text": "Day 15: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 17: Transmission log from drone."
+        "text": "Day 16: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 18: Transmission log from drone."
+        "text": "Day 17: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 19: Transmission log from drone."
+        "text": "Day 18: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 20: Transmission log from drone."
+        "text": "Day 19: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 21: Transmission log from drone."
+        "text": "Day 20: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 22: Transmission log from drone."
+        "text": "Day 21: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 23: Transmission log from drone."
+        "text": "Day 22: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 24: Transmission log from drone."
+        "text": "Day 23: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 25: Transmission log from drone."
+        "text": "Day 24: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 26: Transmission log from drone."
+        "text": "Day 25: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 27: Transmission log from drone."
+        "text": "Day 26: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 28: Transmission log from drone."
+        "text": "Day 27: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 29: Transmission log from drone."
+        "text": "Day 28: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 30: Transmission log from drone."
+        "text": "Day 29: Transmission log from drone."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 31: Transmission log from drone."
+        "text": "Day 30: Transmission log from drone."
       }
     ],
     "control room": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 1: Transmission log from control room."
+        "text": "Day 0: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 2: Transmission log from control room."
+        "text": "Day 1: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 3: Transmission log from control room."
+        "text": "Day 2: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 4: Transmission log from control room."
+        "text": "Day 3: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 5: Transmission log from control room."
+        "text": "Day 4: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 6: Transmission log from control room."
+        "text": "Day 5: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 7: Transmission log from control room."
+        "text": "Day 6: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 8: Transmission log from control room."
+        "text": "Day 7: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 9: Transmission log from control room."
+        "text": "Day 8: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 10: Transmission log from control room."
+        "text": "Day 9: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 11: Transmission log from control room."
+        "text": "Day 10: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 12: Transmission log from control room."
+        "text": "Day 11: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 13: Transmission log from control room."
+        "text": "Day 12: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 14: Transmission log from control room."
+        "text": "Day 13: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 15: Transmission log from control room."
+        "text": "Day 14: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 16: Transmission log from control room."
+        "text": "Day 15: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 17: Transmission log from control room."
+        "text": "Day 16: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 18: Transmission log from control room."
+        "text": "Day 17: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 19: Transmission log from control room."
+        "text": "Day 18: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 20: Transmission log from control room."
+        "text": "Day 19: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 21: Transmission log from control room."
+        "text": "Day 20: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 22: Transmission log from control room."
+        "text": "Day 21: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 23: Transmission log from control room."
+        "text": "Day 22: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 24: Transmission log from control room."
+        "text": "Day 23: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 25: Transmission log from control room."
+        "text": "Day 24: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 26: Transmission log from control room."
+        "text": "Day 25: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 27: Transmission log from control room."
+        "text": "Day 26: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 28: Transmission log from control room."
+        "text": "Day 27: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 29: Transmission log from control room."
+        "text": "Day 28: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 30: Transmission log from control room."
+        "text": "Day 29: Transmission log from control room."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 31: Transmission log from control room."
+        "text": "Day 30: Transmission log from control room."
       }
     ],
     "manual": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Day 1: Transmission log from manual."
+        "text": "Day 0: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Day 2: Transmission log from manual."
+        "text": "Day 1: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Day 3: Transmission log from manual."
+        "text": "Day 2: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Day 4: Transmission log from manual."
+        "text": "Day 3: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Day 5: Transmission log from manual."
+        "text": "Day 4: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Day 6: Transmission log from manual."
+        "text": "Day 5: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Day 7: Transmission log from manual."
+        "text": "Day 6: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Day 8: Transmission log from manual."
+        "text": "Day 7: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Day 9: Transmission log from manual."
+        "text": "Day 8: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Day 10: Transmission log from manual."
+        "text": "Day 9: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Day 11: Transmission log from manual."
+        "text": "Day 10: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Day 12: Transmission log from manual."
+        "text": "Day 11: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Day 13: Transmission log from manual."
+        "text": "Day 12: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Day 14: Transmission log from manual."
+        "text": "Day 13: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Day 15: Transmission log from manual."
+        "text": "Day 14: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Day 16: Transmission log from manual."
+        "text": "Day 15: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Day 17: Transmission log from manual."
+        "text": "Day 16: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Day 18: Transmission log from manual."
+        "text": "Day 17: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Day 19: Transmission log from manual."
+        "text": "Day 18: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Day 20: Transmission log from manual."
+        "text": "Day 19: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Day 21: Transmission log from manual."
+        "text": "Day 20: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Day 22: Transmission log from manual."
+        "text": "Day 21: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Day 23: Transmission log from manual."
+        "text": "Day 22: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Day 24: Transmission log from manual."
+        "text": "Day 23: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Day 25: Transmission log from manual."
+        "text": "Day 24: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Day 26: Transmission log from manual."
+        "text": "Day 25: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Day 27: Transmission log from manual."
+        "text": "Day 26: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Day 28: Transmission log from manual."
+        "text": "Day 27: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Day 29: Transmission log from manual."
+        "text": "Day 28: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Day 30: Transmission log from manual."
+        "text": "Day 29: Transmission log from manual."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Day 31: Transmission log from manual."
+        "text": "Day 30: Transmission log from manual."
       }
     ]
   },
   "quotes": [
     {
-      "quote": "Commander {name}, this is day 1. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 0. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 2. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 1. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 3. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 2. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 4. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 3. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 5. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 4. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 6. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 5. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 7. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 6. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 8. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 7. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 9. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 8. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 10. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 9. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 11. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 10. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 12. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 11. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 13. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 12. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 14. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 13. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 15. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 14. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 16. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 15. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 17. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 16. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 18. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 17. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 19. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 18. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 20. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 19. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 21. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 20. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 22. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 21. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 23. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 22. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 24. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 23. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 25. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 24. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 26. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 25. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 27. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 26. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 28. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 27. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 29. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 28. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 30. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 29. Stay vigilant.",
       "author": "System AI"
     },
     {
-      "quote": "Commander {name}, this is day 31. Stay vigilant.",
+      "quote": "Commander {{name}}, this is entry 30. Stay vigilant.",
       "author": "System AI"
     }
   ]
