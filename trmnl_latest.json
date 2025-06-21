@@ -1,770 +1,518 @@
 {
   "_meta": {
-    "version": "",
-    "notes": "",
-    "generated": "2025-06-21 13-40-46"
+    "version": "1.0",
+    "notes": "30-day test data with personalized quotes",
+    "generated": "2025-06-21 22-06-57"
   },
   "user_stage_map": {
-    "sad:internal:saga": 0,
-    "happy:drone:boooo": 1,
-    "confused:manual:*": 30
+    "curious:space:signal": 0,
+    "hopeful:ocean:ping": 1,
+    "confused:manual:anyword": 30
   },
   "backgrounds": {
+    "space": [
+      {
+        "url": "https://files.catbox.moe/dtp0yh.png",
+        "text": "Mission log, day 0."
+      },
+      {
+        "url": "https://files.catbox.moe/vbby7a.png",
+        "text": "Mission log, day 1."
+      },
+      {
+        "url": "https://files.catbox.moe/n2lp7d.png",
+        "text": "Mission log, day 2."
+      },
+      {
+        "url": "https://files.catbox.moe/ht7fth.png",
+        "text": "Mission log, day 3."
+      },
+      {
+        "url": "https://files.catbox.moe/w2d98b.jpg",
+        "text": "Mission log, day 4."
+      },
+      {
+        "url": "https://files.catbox.moe/09ui4r.jpeg",
+        "text": "Mission log, day 5."
+      },
+      {
+        "url": "https://files.catbox.moe/36lvqh.png",
+        "text": "Mission log, day 6."
+      },
+      {
+        "url": "https://files.catbox.moe/ppn14a.png",
+        "text": "Mission log, day 7."
+      },
+      {
+        "url": "https://files.catbox.moe/jmsqg1.png",
+        "text": "Mission log, day 8."
+      },
+      {
+        "url": "https://files.catbox.moe/hyn45n.png",
+        "text": "Mission log, day 9."
+      },
+      {
+        "url": "https://files.catbox.moe/9olm0c.png",
+        "text": "Mission log, day 10."
+      },
+      {
+        "url": "https://files.catbox.moe/81cukz.jpg",
+        "text": "Mission log, day 11."
+      },
+      {
+        "url": "https://files.catbox.moe/q3xz5n.png",
+        "text": "Mission log, day 12."
+      },
+      {
+        "url": "https://files.catbox.moe/x4rf3f.png",
+        "text": "Mission log, day 13."
+      },
+      {
+        "url": "https://files.catbox.moe/7n8maz.png",
+        "text": "Mission log, day 14."
+      },
+      {
+        "url": "https://files.catbox.moe/jz28fj.png",
+        "text": "Mission log, day 15."
+      },
+      {
+        "url": "https://files.catbox.moe/6cfw0f.png",
+        "text": "Mission log, day 16."
+      },
+      {
+        "url": "https://files.catbox.moe/683tx1.png",
+        "text": "Mission log, day 17."
+      },
+      {
+        "url": "https://files.catbox.moe/yqngmf.png",
+        "text": "Mission log, day 18."
+      },
+      {
+        "url": "https://files.catbox.moe/7wthcx.png",
+        "text": "Mission log, day 19."
+      },
+      {
+        "url": "https://files.catbox.moe/h6xpez.png",
+        "text": "Mission log, day 20."
+      },
+      {
+        "url": "https://files.catbox.moe/ora8ub.png",
+        "text": "Mission log, day 21."
+      },
+      {
+        "url": "https://files.catbox.moe/hih4x9.png",
+        "text": "Mission log, day 22."
+      },
+      {
+        "url": "https://files.catbox.moe/za4g3o.png",
+        "text": "Mission log, day 23."
+      },
+      {
+        "url": "https://files.catbox.moe/dk2gx9.png",
+        "text": "Mission log, day 24."
+      },
+      {
+        "url": "https://files.catbox.moe/upsw8s.png",
+        "text": "Mission log, day 25."
+      },
+      {
+        "url": "https://files.catbox.moe/esv1c5.jpg",
+        "text": "Mission log, day 26."
+      },
+      {
+        "url": "https://files.catbox.moe/g1c5yx.png",
+        "text": "Mission log, day 27."
+      },
+      {
+        "url": "https://files.catbox.moe/wkfwbi.png",
+        "text": "Mission log, day 28."
+      },
+      {
+        "url": "https://files.catbox.moe/fo868f.png",
+        "text": "Mission log, day 29."
+      },
+      {
+        "url": "https://files.catbox.moe/akra2i.png",
+        "text": "Mission log, day 30."
+      }
+    ],
+    "ocean": [
+      {
+        "url": "https://files.catbox.moe/dtp0yh.png",
+        "text": "Mission log, day 0."
+      },
+      {
+        "url": "https://files.catbox.moe/vbby7a.png",
+        "text": "Mission log, day 1."
+      },
+      {
+        "url": "https://files.catbox.moe/n2lp7d.png",
+        "text": "Mission log, day 2."
+      },
+      {
+        "url": "https://files.catbox.moe/ht7fth.png",
+        "text": "Mission log, day 3."
+      },
+      {
+        "url": "https://files.catbox.moe/w2d98b.jpg",
+        "text": "Mission log, day 4."
+      },
+      {
+        "url": "https://files.catbox.moe/09ui4r.jpeg",
+        "text": "Mission log, day 5."
+      },
+      {
+        "url": "https://files.catbox.moe/36lvqh.png",
+        "text": "Mission log, day 6."
+      },
+      {
+        "url": "https://files.catbox.moe/ppn14a.png",
+        "text": "Mission log, day 7."
+      },
+      {
+        "url": "https://files.catbox.moe/jmsqg1.png",
+        "text": "Mission log, day 8."
+      },
+      {
+        "url": "https://files.catbox.moe/hyn45n.png",
+        "text": "Mission log, day 9."
+      },
+      {
+        "url": "https://files.catbox.moe/9olm0c.png",
+        "text": "Mission log, day 10."
+      },
+      {
+        "url": "https://files.catbox.moe/81cukz.jpg",
+        "text": "Mission log, day 11."
+      },
+      {
+        "url": "https://files.catbox.moe/q3xz5n.png",
+        "text": "Mission log, day 12."
+      },
+      {
+        "url": "https://files.catbox.moe/x4rf3f.png",
+        "text": "Mission log, day 13."
+      },
+      {
+        "url": "https://files.catbox.moe/7n8maz.png",
+        "text": "Mission log, day 14."
+      },
+      {
+        "url": "https://files.catbox.moe/jz28fj.png",
+        "text": "Mission log, day 15."
+      },
+      {
+        "url": "https://files.catbox.moe/6cfw0f.png",
+        "text": "Mission log, day 16."
+      },
+      {
+        "url": "https://files.catbox.moe/683tx1.png",
+        "text": "Mission log, day 17."
+      },
+      {
+        "url": "https://files.catbox.moe/yqngmf.png",
+        "text": "Mission log, day 18."
+      },
+      {
+        "url": "https://files.catbox.moe/7wthcx.png",
+        "text": "Mission log, day 19."
+      },
+      {
+        "url": "https://files.catbox.moe/h6xpez.png",
+        "text": "Mission log, day 20."
+      },
+      {
+        "url": "https://files.catbox.moe/ora8ub.png",
+        "text": "Mission log, day 21."
+      },
+      {
+        "url": "https://files.catbox.moe/hih4x9.png",
+        "text": "Mission log, day 22."
+      },
+      {
+        "url": "https://files.catbox.moe/za4g3o.png",
+        "text": "Mission log, day 23."
+      },
+      {
+        "url": "https://files.catbox.moe/dk2gx9.png",
+        "text": "Mission log, day 24."
+      },
+      {
+        "url": "https://files.catbox.moe/upsw8s.png",
+        "text": "Mission log, day 25."
+      },
+      {
+        "url": "https://files.catbox.moe/esv1c5.jpg",
+        "text": "Mission log, day 26."
+      },
+      {
+        "url": "https://files.catbox.moe/g1c5yx.png",
+        "text": "Mission log, day 27."
+      },
+      {
+        "url": "https://files.catbox.moe/wkfwbi.png",
+        "text": "Mission log, day 28."
+      },
+      {
+        "url": "https://files.catbox.moe/fo868f.png",
+        "text": "Mission log, day 29."
+      },
+      {
+        "url": "https://files.catbox.moe/akra2i.png",
+        "text": "Mission log, day 30."
+      }
+    ],
     "manual": [
       {
-        "url": "https://files.catbox.moe/ussnbq.png",
-        "text": "Operator log retrieved."
+        "url": "https://files.catbox.moe/dtp0yh.png",
+        "text": "Mission log, day 0."
       },
       {
-        "url": "https://files.catbox.moe/ussnbq.png",
-        "text": "Operator log retrieved."
+        "url": "https://files.catbox.moe/vbby7a.png",
+        "text": "Mission log, day 1."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/n2lp7d.png",
+        "text": "Mission log, day 2."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/ht7fth.png",
+        "text": "Mission log, day 3."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/w2d98b.jpg",
+        "text": "Mission log, day 4."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/09ui4r.jpeg",
+        "text": "Mission log, day 5."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/36lvqh.png",
+        "text": "Mission log, day 6."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/ppn14a.png",
+        "text": "Mission log, day 7."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/jmsqg1.png",
+        "text": "Mission log, day 8."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/hyn45n.png",
+        "text": "Mission log, day 9."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/9olm0c.png",
+        "text": "Mission log, day 10."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/81cukz.jpg",
+        "text": "Mission log, day 11."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/q3xz5n.png",
+        "text": "Mission log, day 12."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/x4rf3f.png",
+        "text": "Mission log, day 13."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/7n8maz.png",
+        "text": "Mission log, day 14."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/jz28fj.png",
+        "text": "Mission log, day 15."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/6cfw0f.png",
+        "text": "Mission log, day 16."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/683tx1.png",
+        "text": "Mission log, day 17."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/yqngmf.png",
+        "text": "Mission log, day 18."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/7wthcx.png",
+        "text": "Mission log, day 19."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/h6xpez.png",
+        "text": "Mission log, day 20."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/ora8ub.png",
+        "text": "Mission log, day 21."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/hih4x9.png",
+        "text": "Mission log, day 22."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/za4g3o.png",
+        "text": "Mission log, day 23."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/dk2gx9.png",
+        "text": "Mission log, day 24."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/upsw8s.png",
+        "text": "Mission log, day 25."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/esv1c5.jpg",
+        "text": "Mission log, day 26."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/g1c5yx.png",
+        "text": "Mission log, day 27."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/wkfwbi.png",
+        "text": "Mission log, day 28."
       },
       {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/fo868f.png",
+        "text": "Mission log, day 29."
       },
       {
-        "url": "",
-        "text": ""
-      }
-    ],
-    "external": [
-      {
-        "url": "https://files.catbox.moe/f839la.png",
-        "text": "System anomaly detected."
-      },
-      {
-        "url": "https://files.catbox.moe/f839la.png",
-        "text": "System anomaly detected."
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      }
-    ],
-    "internal": [
-      {
-        "url": "https://files.catbox.moe/nd5ru0.png",
-        "text": "Begin manual override protocol."
-      },
-      {
-        "url": "https://files.catbox.moe/nd5ru0.png",
-        "text": "Begin manual override protocol."
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      }
-    ],
-    "drone": [
-      {
-        "url": "https://files.catbox.moe/jmh4qh.png",
-        "text": "yo, this is lit"
-      },
-      {
-        "url": "https://files.catbox.moe/jmh4qh.png",
-        "text": "yo, this is lit"
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      }
-    ],
-    "control room": [
-      {
-        "url": "https://files.catbox.moe/hts0pp.png",
-        "text": "amazing"
-      },
-      {
-        "url": "https://files.catbox.moe/hts0pp.png",
-        "text": "amazing"
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
-      },
-      {
-        "url": "",
-        "text": ""
+        "url": "https://files.catbox.moe/akra2i.png",
+        "text": "Mission log, day 30."
       }
     ]
   },
   "quotes": [
     {
-      "quote": "live life",
-      "author": "system"
+      "quote": "Day 0: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "baba",
-      "author": "testing author"
+      "quote": "{name}, Day 1 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 2",
-      "author": "Unknown"
+      "quote": "Day 2: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 3",
-      "author": "Unknown"
+      "quote": "{name}, Day 3 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 4",
-      "author": "Unknown"
+      "quote": "Day 4: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 5",
-      "author": "Unknown"
+      "quote": "{name}, Day 5 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 6",
-      "author": "Unknown"
+      "quote": "Day 6: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 7",
-      "author": "Unknown"
+      "quote": "{name}, Day 7 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 8",
-      "author": "Unknown"
+      "quote": "Day 8: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 9",
-      "author": "Unknown"
+      "quote": "{name}, Day 9 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 10",
-      "author": "Unknown"
+      "quote": "Day 10: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 11",
-      "author": "Unknown"
+      "quote": "{name}, Day 11 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 12",
-      "author": "Unknown"
+      "quote": "Day 12: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 13",
-      "author": "Unknown"
+      "quote": "{name}, Day 13 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 14",
-      "author": "Unknown"
+      "quote": "Day 14: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 15",
-      "author": "Unknown"
+      "quote": "{name}, Day 15 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 16",
-      "author": "Unknown"
+      "quote": "Day 16: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 17",
-      "author": "Unknown"
+      "quote": "{name}, Day 17 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 18",
-      "author": "Unknown"
+      "quote": "Day 18: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 19",
-      "author": "Unknown"
+      "quote": "{name}, Day 19 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 20",
-      "author": "Unknown"
+      "quote": "Day 20: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 21",
-      "author": "Unknown"
+      "quote": "{name}, Day 21 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 22",
-      "author": "Unknown"
+      "quote": "Day 22: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 23",
-      "author": "Unknown"
+      "quote": "{name}, Day 23 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 24",
-      "author": "Unknown"
+      "quote": "Day 24: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 25",
-      "author": "Unknown"
+      "quote": "{name}, Day 25 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 26",
-      "author": "Unknown"
+      "quote": "Day 26: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 27",
-      "author": "Unknown"
+      "quote": "{name}, Day 27 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 28",
-      "author": "Unknown"
+      "quote": "Day 28: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 29",
-      "author": "Unknown"
+      "quote": "{name}, Day 29 is yours to own.",
+      "author": "System AI"
     },
     {
-      "quote": "Missing quote for day 30",
-      "author": "Unknown"
+      "quote": "Day 30: Keep going, {name}. This is your moment.",
+      "author": "System AI"
     }
   ]
 }
