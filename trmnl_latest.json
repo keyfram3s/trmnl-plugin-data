@@ -1,518 +1,294 @@
 {
   "_meta": {
-    "version": "1.0",
-    "notes": "30-day test data with personalized quotes",
-    "generated": "2025-06-21 22-06-57"
+    "version": "v1",
+    "generated": "2025-06-21"
   },
   "user_stage_map": {
-    "curious:space:signal": 0,
-    "hopeful:ocean:ping": 1,
-    "confused:manual:anyword": 30
+    "scared:manual:start": 20,
+    "scared:internal:start": 1,
+    "distant:control room:start": 2,
+    "confused:external:start": 25,
+    "angry:internal:start": 4,
+    "scared:external:start": 7,
+    "scared:drone:start": 6,
+    "angry:manual:start": 8,
+    "happy:internal:start": 9,
+    "anxious:control room:start": 10,
+    "confused:control room:start": 11,
+    "angry:drone:start": 17,
+    "anxious:drone:start": 13,
+    "happy:manual:start": 14,
+    "curious:control room:start": 19,
+    "confused:drone:start": 16,
+    "anxious:external:start": 18,
+    "sad:internal:start": 27,
+    "curious:internal:start": 22,
+    "sad:control room:start": 23,
+    "scared:control room:start": 24,
+    "curious:drone:start": 30,
+    "anxious:internal:start": 28,
+    "angry:control room:start": 29
   },
   "backgrounds": {
-    "space": [
-      {
-        "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Mission log, day 0."
-      },
-      {
-        "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Mission log, day 1."
-      },
-      {
-        "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Mission log, day 2."
-      },
+    "external": [
       {
         "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Mission log, day 3."
-      },
-      {
-        "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Mission log, day 4."
+        "text": "Day 4: Feed from external sector received."
       },
       {
         "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Mission log, day 5."
-      },
-      {
-        "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Mission log, day 6."
+        "text": "Day 6: Feed from external sector received."
       },
       {
         "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Mission log, day 7."
-      },
-      {
-        "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Mission log, day 8."
-      },
-      {
-        "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Mission log, day 9."
-      },
-      {
-        "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Mission log, day 10."
-      },
-      {
-        "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Mission log, day 11."
-      },
-      {
-        "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Mission log, day 12."
-      },
-      {
-        "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Mission log, day 13."
-      },
-      {
-        "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Mission log, day 14."
-      },
-      {
-        "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Mission log, day 15."
-      },
-      {
-        "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Mission log, day 16."
-      },
-      {
-        "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Mission log, day 17."
+        "text": "Day 8: Feed from external sector received."
       },
       {
         "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Mission log, day 18."
-      },
-      {
-        "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Mission log, day 19."
-      },
-      {
-        "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Mission log, day 20."
-      },
-      {
-        "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Mission log, day 21."
-      },
-      {
-        "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Mission log, day 22."
-      },
-      {
-        "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Mission log, day 23."
-      },
-      {
-        "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Mission log, day 24."
+        "text": "Day 19: Feed from external sector received."
       },
       {
         "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Mission log, day 25."
-      },
-      {
-        "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Mission log, day 26."
-      },
-      {
-        "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Mission log, day 27."
-      },
-      {
-        "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Mission log, day 28."
-      },
-      {
-        "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Mission log, day 29."
-      },
-      {
-        "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Mission log, day 30."
+        "text": "Day 26: Feed from external sector received."
       }
     ],
-    "ocean": [
-      {
-        "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Mission log, day 0."
-      },
+    "internal": [
       {
         "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Mission log, day 1."
-      },
-      {
-        "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Mission log, day 2."
-      },
-      {
-        "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Mission log, day 3."
+        "text": "Day 2: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Mission log, day 4."
-      },
-      {
-        "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Mission log, day 5."
-      },
-      {
-        "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Mission log, day 6."
-      },
-      {
-        "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Mission log, day 7."
-      },
-      {
-        "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Mission log, day 8."
+        "text": "Day 5: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Mission log, day 9."
-      },
-      {
-        "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Mission log, day 10."
-      },
-      {
-        "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Mission log, day 11."
-      },
-      {
-        "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Mission log, day 12."
-      },
-      {
-        "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Mission log, day 13."
-      },
-      {
-        "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Mission log, day 14."
-      },
-      {
-        "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Mission log, day 15."
-      },
-      {
-        "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Mission log, day 16."
-      },
-      {
-        "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Mission log, day 17."
-      },
-      {
-        "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Mission log, day 18."
-      },
-      {
-        "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Mission log, day 19."
-      },
-      {
-        "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Mission log, day 20."
+        "text": "Day 10: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Mission log, day 21."
+        "text": "Day 22: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Mission log, day 22."
-      },
-      {
-        "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Mission log, day 23."
-      },
-      {
-        "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Mission log, day 24."
-      },
-      {
-        "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Mission log, day 25."
-      },
-      {
-        "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Mission log, day 26."
+        "text": "Day 23: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Mission log, day 27."
+        "text": "Day 28: Feed from internal sector received."
       },
       {
         "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Mission log, day 28."
+        "text": "Day 29: Feed from internal sector received."
+      }
+    ],
+    "drone": [
+      {
+        "url": "https://files.catbox.moe/36lvqh.png",
+        "text": "Day 7: Feed from drone sector received."
       },
       {
-        "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Mission log, day 29."
+        "url": "https://files.catbox.moe/q3xz5n.png",
+        "text": "Day 13: Feed from drone sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/x4rf3f.png",
+        "text": "Day 14: Feed from drone sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/6cfw0f.png",
+        "text": "Day 17: Feed from drone sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/683tx1.png",
+        "text": "Day 18: Feed from drone sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/esv1c5.jpg",
+        "text": "Day 27: Feed from drone sector received."
       },
       {
         "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Mission log, day 30."
+        "text": "Day 31: Feed from drone sector received."
+      }
+    ],
+    "control room": [
+      {
+        "url": "https://files.catbox.moe/n2lp7d.png",
+        "text": "Day 3: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/9olm0c.png",
+        "text": "Day 11: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/81cukz.jpg",
+        "text": "Day 12: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/jz28fj.png",
+        "text": "Day 16: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/7wthcx.png",
+        "text": "Day 20: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/za4g3o.png",
+        "text": "Day 24: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/dk2gx9.png",
+        "text": "Day 25: Feed from control room sector received."
+      },
+      {
+        "url": "https://files.catbox.moe/fo868f.png",
+        "text": "Day 30: Feed from control room sector received."
       }
     ],
     "manual": [
       {
         "url": "https://files.catbox.moe/dtp0yh.png",
-        "text": "Mission log, day 0."
-      },
-      {
-        "url": "https://files.catbox.moe/vbby7a.png",
-        "text": "Mission log, day 1."
-      },
-      {
-        "url": "https://files.catbox.moe/n2lp7d.png",
-        "text": "Mission log, day 2."
-      },
-      {
-        "url": "https://files.catbox.moe/ht7fth.png",
-        "text": "Mission log, day 3."
-      },
-      {
-        "url": "https://files.catbox.moe/w2d98b.jpg",
-        "text": "Mission log, day 4."
-      },
-      {
-        "url": "https://files.catbox.moe/09ui4r.jpeg",
-        "text": "Mission log, day 5."
-      },
-      {
-        "url": "https://files.catbox.moe/36lvqh.png",
-        "text": "Mission log, day 6."
-      },
-      {
-        "url": "https://files.catbox.moe/ppn14a.png",
-        "text": "Mission log, day 7."
+        "text": "Day 1: Feed from manual sector received."
       },
       {
         "url": "https://files.catbox.moe/jmsqg1.png",
-        "text": "Mission log, day 8."
-      },
-      {
-        "url": "https://files.catbox.moe/hyn45n.png",
-        "text": "Mission log, day 9."
-      },
-      {
-        "url": "https://files.catbox.moe/9olm0c.png",
-        "text": "Mission log, day 10."
-      },
-      {
-        "url": "https://files.catbox.moe/81cukz.jpg",
-        "text": "Mission log, day 11."
-      },
-      {
-        "url": "https://files.catbox.moe/q3xz5n.png",
-        "text": "Mission log, day 12."
-      },
-      {
-        "url": "https://files.catbox.moe/x4rf3f.png",
-        "text": "Mission log, day 13."
+        "text": "Day 9: Feed from manual sector received."
       },
       {
         "url": "https://files.catbox.moe/7n8maz.png",
-        "text": "Mission log, day 14."
-      },
-      {
-        "url": "https://files.catbox.moe/jz28fj.png",
-        "text": "Mission log, day 15."
-      },
-      {
-        "url": "https://files.catbox.moe/6cfw0f.png",
-        "text": "Mission log, day 16."
-      },
-      {
-        "url": "https://files.catbox.moe/683tx1.png",
-        "text": "Mission log, day 17."
-      },
-      {
-        "url": "https://files.catbox.moe/yqngmf.png",
-        "text": "Mission log, day 18."
-      },
-      {
-        "url": "https://files.catbox.moe/7wthcx.png",
-        "text": "Mission log, day 19."
+        "text": "Day 15: Feed from manual sector received."
       },
       {
         "url": "https://files.catbox.moe/h6xpez.png",
-        "text": "Mission log, day 20."
-      },
-      {
-        "url": "https://files.catbox.moe/ora8ub.png",
-        "text": "Mission log, day 21."
-      },
-      {
-        "url": "https://files.catbox.moe/hih4x9.png",
-        "text": "Mission log, day 22."
-      },
-      {
-        "url": "https://files.catbox.moe/za4g3o.png",
-        "text": "Mission log, day 23."
-      },
-      {
-        "url": "https://files.catbox.moe/dk2gx9.png",
-        "text": "Mission log, day 24."
-      },
-      {
-        "url": "https://files.catbox.moe/upsw8s.png",
-        "text": "Mission log, day 25."
-      },
-      {
-        "url": "https://files.catbox.moe/esv1c5.jpg",
-        "text": "Mission log, day 26."
-      },
-      {
-        "url": "https://files.catbox.moe/g1c5yx.png",
-        "text": "Mission log, day 27."
-      },
-      {
-        "url": "https://files.catbox.moe/wkfwbi.png",
-        "text": "Mission log, day 28."
-      },
-      {
-        "url": "https://files.catbox.moe/fo868f.png",
-        "text": "Mission log, day 29."
-      },
-      {
-        "url": "https://files.catbox.moe/akra2i.png",
-        "text": "Mission log, day 30."
+        "text": "Day 21: Feed from manual sector received."
       }
     ]
   },
   "quotes": [
     {
-      "quote": "Day 0: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 1. Stay focused.",
+      "author": "System AI #239"
     },
     {
-      "quote": "{name}, Day 1 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 2. Stay focused.",
+      "author": "System AI #835"
     },
     {
-      "quote": "Day 2: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 3. Stay focused.",
+      "author": "System AI #188"
     },
     {
-      "quote": "{name}, Day 3 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 4. Stay focused.",
+      "author": "System AI #814"
     },
     {
-      "quote": "Day 4: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 5. Stay focused.",
+      "author": "System AI #906"
     },
     {
-      "quote": "{name}, Day 5 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 6. Stay focused.",
+      "author": "System AI #442"
     },
     {
-      "quote": "Day 6: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 7. Stay focused.",
+      "author": "System AI #975"
     },
     {
-      "quote": "{name}, Day 7 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 8. Stay focused.",
+      "author": "System AI #990"
     },
     {
-      "quote": "Day 8: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 9. Stay focused.",
+      "author": "System AI #563"
     },
     {
-      "quote": "{name}, Day 9 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 10. Stay focused.",
+      "author": "System AI #186"
     },
     {
-      "quote": "Day 10: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 11. Stay focused.",
+      "author": "System AI #374"
     },
     {
-      "quote": "{name}, Day 11 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 12. Stay focused.",
+      "author": "System AI #540"
     },
     {
-      "quote": "Day 12: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 13. Stay focused.",
+      "author": "System AI #337"
     },
     {
-      "quote": "{name}, Day 13 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 14. Stay focused.",
+      "author": "System AI #670"
     },
     {
-      "quote": "Day 14: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 15. Stay focused.",
+      "author": "System AI #737"
     },
     {
-      "quote": "{name}, Day 15 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 16. Stay focused.",
+      "author": "System AI #977"
     },
     {
-      "quote": "Day 16: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 17. Stay focused.",
+      "author": "System AI #899"
     },
     {
-      "quote": "{name}, Day 17 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 18. Stay focused.",
+      "author": "System AI #385"
     },
     {
-      "quote": "Day 18: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 19. Stay focused.",
+      "author": "System AI #689"
     },
     {
-      "quote": "{name}, Day 19 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 20. Stay focused.",
+      "author": "System AI #367"
     },
     {
-      "quote": "Day 20: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 21. Stay focused.",
+      "author": "System AI #477"
     },
     {
-      "quote": "{name}, Day 21 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 22. Stay focused.",
+      "author": "System AI #541"
     },
     {
-      "quote": "Day 22: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 23. Stay focused.",
+      "author": "System AI #400"
     },
     {
-      "quote": "{name}, Day 23 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 24. Stay focused.",
+      "author": "System AI #718"
     },
     {
-      "quote": "Day 24: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 25. Stay focused.",
+      "author": "System AI #420"
     },
     {
-      "quote": "{name}, Day 25 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 26. Stay focused.",
+      "author": "System AI #625"
     },
     {
-      "quote": "Day 26: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 27. Stay focused.",
+      "author": "System AI #556"
     },
     {
-      "quote": "{name}, Day 27 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 28. Stay focused.",
+      "author": "System AI #476"
     },
     {
-      "quote": "Day 28: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 29. Stay focused.",
+      "author": "System AI #182"
     },
     {
-      "quote": "{name}, Day 29 is yours to own.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 30. Stay focused.",
+      "author": "System AI #664"
     },
     {
-      "quote": "Day 30: Keep going, {name}. This is your moment.",
-      "author": "System AI"
+      "quote": "{{name}}, this is day 31. Stay focused.",
+      "author": "System AI #151"
     }
   ]
 }
