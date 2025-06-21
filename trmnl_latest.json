@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "version": "v14",
+    "notes": "testing loading",
+    "generated": "2025-06-21 12-09-53"
+  },
+  "user_stage_map": {
+    "confused:manual:start": 0
+  },
+  "backgrounds": {
+    "manual": [
+      {
+        "url": "https://files.catbox.moe/ussnbq.png",
+        "text": "Operator log retrieved."
+      }
+    ],
+    "external": [
+      {
+        "url": "https://files.catbox.moe/f839la.png",
+        "text": "System anomaly detected."
+      }
+    ],
+    "internal": [
+      {
+        "url": "https://files.catbox.moe/nd5ru0.png",
+        "text": "Begin manual override protocol."
+      }
+    ],
+    "drone": [
+      {
+        "url": "https://files.catbox.moe/jmh4qh.png",
+        "text": "yo, this is lit"
+      }
+    ],
+    "control room": [
+      {
+        "url": "https://files.catbox.moe/hts0pp.png",
+        "text": "amazing"
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "quote": "live life twice",
+      "author": "system"
+    }
+  ]
+}
