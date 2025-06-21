@@ -1,48 +1,770 @@
 {
   "_meta": {
-    "version": "v14",
-    "notes": "testing loading",
-    "generated": "2025-06-21 12-09-53"
+    "version": "",
+    "notes": "",
+    "generated": "2025-06-21 13-40-46"
   },
   "user_stage_map": {
-    "confused:manual:start": 0
+    "sad:internal:saga": 0,
+    "happy:drone:boooo": 1,
+    "confused:manual:*": 30
   },
   "backgrounds": {
     "manual": [
       {
         "url": "https://files.catbox.moe/ussnbq.png",
         "text": "Operator log retrieved."
+      },
+      {
+        "url": "https://files.catbox.moe/ussnbq.png",
+        "text": "Operator log retrieved."
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
       }
     ],
     "external": [
       {
         "url": "https://files.catbox.moe/f839la.png",
         "text": "System anomaly detected."
+      },
+      {
+        "url": "https://files.catbox.moe/f839la.png",
+        "text": "System anomaly detected."
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
       }
     ],
     "internal": [
       {
         "url": "https://files.catbox.moe/nd5ru0.png",
         "text": "Begin manual override protocol."
+      },
+      {
+        "url": "https://files.catbox.moe/nd5ru0.png",
+        "text": "Begin manual override protocol."
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
       }
     ],
     "drone": [
       {
         "url": "https://files.catbox.moe/jmh4qh.png",
         "text": "yo, this is lit"
+      },
+      {
+        "url": "https://files.catbox.moe/jmh4qh.png",
+        "text": "yo, this is lit"
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
       }
     ],
     "control room": [
       {
         "url": "https://files.catbox.moe/hts0pp.png",
         "text": "amazing"
+      },
+      {
+        "url": "https://files.catbox.moe/hts0pp.png",
+        "text": "amazing"
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
+      },
+      {
+        "url": "",
+        "text": ""
       }
     ]
   },
   "quotes": [
     {
-      "quote": "live life twice",
+      "quote": "live life",
       "author": "system"
+    },
+    {
+      "quote": "baba",
+      "author": "testing author"
+    },
+    {
+      "quote": "Missing quote for day 2",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 3",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 4",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 5",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 6",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 7",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 8",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 9",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 10",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 11",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 12",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 13",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 14",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 15",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 16",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 17",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 18",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 19",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 20",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 21",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 22",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 23",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 24",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 25",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 26",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 27",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 28",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 29",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 30",
+      "author": "Unknown"
     }
   ]
 }
