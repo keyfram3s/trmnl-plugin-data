@@ -2,7 +2,7 @@
   "_meta": {
     "version": "V1",
     "notes": "testing background.",
-    "generated": "2025-06-22 01-07-19"
+    "generated": "2025-06-22 01-18-11"
   },
   "user_stage_map": {
     "confused:manual:*": 1
@@ -11,7 +11,7 @@
     "manual": [
       {
         "url": "https://files.catbox.moe/ysxmr8.png",
-        "text": ""
+        "text": "Hello{{Name}}we detected a special anomaly our closest ship isn't responding"
       },
       {
         "url": "",
@@ -21,7 +21,7 @@
     "external": [
       {
         "url": "https://files.catbox.moe/bjnny7.png",
-        "text": ""
+        "text": "There she is the FlingingARM"
       },
       {
         "url": "",
@@ -31,7 +31,7 @@
     "internal": [
       {
         "url": "https://files.catbox.moe/ofagg5.png",
-        "text": ""
+        "text": "Odd"
       },
       {
         "url": "",
@@ -41,7 +41,7 @@
     "drone": [
       {
         "url": "https://files.catbox.moe/ar8evd.png",
-        "text": ""
+        "text": "All system is broken"
       },
       {
         "url": "",
@@ -51,7 +51,7 @@
     "control room": [
       {
         "url": "https://files.catbox.moe/5st8sz.png",
-        "text": ""
+        "text": "Lets try getting this fixed{{Name}}"
       },
       {
         "url": "",
@@ -61,8 +61,8 @@
   },
   "quotes": [
     {
-      "quote": "Missing quote for day 0",
-      "author": "Unknown"
+      "quote": "Anomaly Detected. Connecting to remote system",
+      "author": "System"
     },
     {
       "quote": "Missing quote for day 1",
