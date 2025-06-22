@@ -2,7 +2,7 @@
   "_meta": {
     "version": "V1",
     "notes": "testing background.",
-    "generated": "2025-06-22 01-31-22"
+    "generated": "2025-06-22 "
   },
   "user_stage_map": {
     "confused:manual:*": 1
@@ -11,7 +11,7 @@
     "manual": [
       {
         "url": "https://files.catbox.moe/ysxmr8.png",
-        "text": "Hello{{Name}}we detected a special anomaly our closest ship isn't responding"
+        "text": "Hello{{name}}we detected a special anomaly our closest ship isn't responding"
       },
       {
         "url": "https://files.catbox.moe/o4l0s9.png",
@@ -51,7 +51,7 @@
     "control room": [
       {
         "url": "https://files.catbox.moe/5st8sz.png",
-        "text": "Lets try getting this fixed{{Name}}"
+        "text": "Lets try getting this fixed{{name}}"
       },
       {
         "url": "https://files.catbox.moe/vlvft4.png",
