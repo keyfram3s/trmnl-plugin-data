@@ -11,7 +11,7 @@
     "manual": [
       {
         "url": "https://files.catbox.moe/ysxmr8.png",
-        "text": "Hello{{Name}}we detected a special anomaly our closest ship isn't responding"
+        "text": "Hello{{name}}we detected a special anomaly our closest ship isn't responding"
       },
       {
         "url": "",
@@ -51,7 +51,7 @@
     "control room": [
       {
         "url": "https://files.catbox.moe/5st8sz.png",
-        "text": "Lets try getting this fixed{{Name}}"
+        "text": "Lets try getting this fixed{{name}}"
       },
       {
         "url": "",
