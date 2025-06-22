@@ -2,11 +2,40 @@
   "_meta": {
     "version": "fixed-31days-v2",
     "notes": "31-day test data with matching Day/index and double-curly name placeholders.",
-    "generated": "2025-06-21 22-56-18"
+    "generated": "2025-06-22 00-03-38"
   },
   "user_stage_map": {
-    "::*": 0,
-    "confused:manual:*": 30
+    "confused:drone:day0": 0,
+    ":drone:day1": 1,
+    "sad:external:day2": 2,
+    "curious:internal:day3": 3,
+    "curious:control room:day4": 4,
+    "anxious:manual:day5": 5,
+    "happy:manual:day6": 6,
+    "happy:internal:day7": 7,
+    "curious:drone:day8": 8,
+    "happy:drone:day9": 9,
+    "happy:drone:day10": 10,
+    "angry:control room:day11": 11,
+    "happy:external:day12": 12,
+    "anxious:drone:day13": 13,
+    ":internal:day14": 14,
+    "happy:drone:day15": 15,
+    "happy:manual:day16": 16,
+    "angry:internal:day17": 17,
+    ":external:day18": 18,
+    "happy:drone:day19": 19,
+    "sad:manual:day20": 20,
+    ":drone:day21": 21,
+    "happy:internal:day22": 22,
+    "confused:drone:day23": 23,
+    "happy:manual:day24": 24,
+    "confused:manual:day25": 25,
+    "anxious:manual:day26": 26,
+    "anxious:internal:day27": 27,
+    "curious:external:day28": 28,
+    "curious:drone:day29": 29,
+    "curious:external:day30": 30
   },
   "backgrounds": {
     "manual": [
@@ -765,5 +794,162 @@
       "quote": "Commander {{name}}, this is entry 30. Stay vigilant.",
       "author": "System AI"
     }
-  ]
+  ],
+  "stage_metadata": {
+    "0": {
+      "mood": "confused",
+      "place": "drone",
+      "word": "day0"
+    },
+    "1": {
+      "mood": "",
+      "place": "drone",
+      "word": "day1"
+    },
+    "2": {
+      "mood": "sad",
+      "place": "external",
+      "word": "day2"
+    },
+    "3": {
+      "mood": "curious",
+      "place": "internal",
+      "word": "day3"
+    },
+    "4": {
+      "mood": "curious",
+      "place": "control room",
+      "word": "day4"
+    },
+    "5": {
+      "mood": "anxious",
+      "place": "manual",
+      "word": "day5"
+    },
+    "6": {
+      "mood": "happy",
+      "place": "manual",
+      "word": "day6"
+    },
+    "7": {
+      "mood": "happy",
+      "place": "internal",
+      "word": "day7"
+    },
+    "8": {
+      "mood": "curious",
+      "place": "drone",
+      "word": "day8"
+    },
+    "9": {
+      "mood": "happy",
+      "place": "drone",
+      "word": "day9"
+    },
+    "10": {
+      "mood": "happy",
+      "place": "drone",
+      "word": "day10"
+    },
+    "11": {
+      "mood": "angry",
+      "place": "control room",
+      "word": "day11"
+    },
+    "12": {
+      "mood": "happy",
+      "place": "external",
+      "word": "day12"
+    },
+    "13": {
+      "mood": "anxious",
+      "place": "drone",
+      "word": "day13"
+    },
+    "14": {
+      "mood": "",
+      "place": "internal",
+      "word": "day14"
+    },
+    "15": {
+      "mood": "happy",
+      "place": "drone",
+      "word": "day15"
+    },
+    "16": {
+      "mood": "happy",
+      "place": "manual",
+      "word": "day16"
+    },
+    "17": {
+      "mood": "angry",
+      "place": "internal",
+      "word": "day17"
+    },
+    "18": {
+      "mood": "",
+      "place": "external",
+      "word": "day18"
+    },
+    "19": {
+      "mood": "happy",
+      "place": "drone",
+      "word": "day19"
+    },
+    "20": {
+      "mood": "sad",
+      "place": "manual",
+      "word": "day20"
+    },
+    "21": {
+      "mood": "",
+      "place": "drone",
+      "word": "day21"
+    },
+    "22": {
+      "mood": "happy",
+      "place": "internal",
+      "word": "day22"
+    },
+    "23": {
+      "mood": "confused",
+      "place": "drone",
+      "word": "day23"
+    },
+    "24": {
+      "mood": "happy",
+      "place": "manual",
+      "word": "day24"
+    },
+    "25": {
+      "mood": "confused",
+      "place": "manual",
+      "word": "day25"
+    },
+    "26": {
+      "mood": "anxious",
+      "place": "manual",
+      "word": "day26"
+    },
+    "27": {
+      "mood": "anxious",
+      "place": "internal",
+      "word": "day27"
+    },
+    "28": {
+      "mood": "curious",
+      "place": "external",
+      "word": "day28"
+    },
+    "29": {
+      "mood": "curious",
+      "place": "drone",
+      "word": "day29"
+    },
+    "30": {
+      "mood": "curious",
+      "place": "external",
+      "word": "day30"
+    }
+  }
 }
