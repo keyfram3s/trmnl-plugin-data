@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "version": "V2",
+    "version": "V3",
     "notes": "testing background.",
-    "generated": "2025-06-22 05-21-49"
+    "generated": "2025-06-22 05-45-10"
   },
   "user_stage_map": {
-    "confused:manual:*": 1,
-    "scared:control_room:start": 0
+    "manual:scared:start": 0,
+    "manual:confused:*": 1
   },
   "backgrounds": {
     "manual": [
@@ -49,13 +49,13 @@
         "text": ""
       }
     ],
-    "control_room": [
+    "control room": [
       {
-        "url": "https://files.catbox.moe/5st8sz.png",
-        "text": "Lets try getting this fixed{{name}}"
+        "url": "",
+        "text": ""
       },
       {
-        "url": "https://files.catbox.moe/vlvft4.png",
+        "url": "",
         "text": ""
       }
     ]
@@ -72,9 +72,9 @@
   ],
   "stage_metadata": {
     "0": {
-      "mood": "confused",
+      "mood": "scared",
       "place": "manual",
-      "word": "*"
+      "word": "start"
     },
     "1": {
       "mood": "confused",
