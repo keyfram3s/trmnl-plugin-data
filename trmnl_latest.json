@@ -1,12 +1,13 @@
 {
   "_meta": {
-    "version": "V3",
+    "version": "V1",
     "notes": "testing background.",
-    "generated": "2025-06-22 05-45-10"
+    "generated": "2025-06-22 21-36-52"
   },
   "user_stage_map": {
-    "manual:scared:start": 0,
-    "manual:confused:*": 1
+    "::start": 0,
+    "curious:manual:1987": 1,
+    "curious:external:*": 2
   },
   "backgrounds": {
     "manual": [
@@ -15,7 +16,11 @@
         "text": "Hello{{name}}we detected a special anomaly our closest ship isn't responding"
       },
       {
-        "url": "https://files.catbox.moe/o4l0s9.png",
+        "url": "https://files.catbox.moe/wvu8n6.png",
+        "text": ""
+      },
+      {
+        "url": "https://files.catbox.moe/wvu8n6.png",
         "text": ""
       }
     ],
@@ -25,7 +30,11 @@
         "text": "There she is the FlingingARM"
       },
       {
-        "url": "https://files.catbox.moe/1t19bt.png",
+        "url": "https://files.catbox.moe/juz7ea.png",
+        "text": ""
+      },
+      {
+        "url": "https://files.catbox.moe/juz7ea.png",
         "text": ""
       }
     ],
@@ -35,7 +44,11 @@
         "text": "Odd"
       },
       {
-        "url": "https://files.catbox.moe/zcv8xx.png",
+        "url": "https://files.catbox.moe/eq96g0.png",
+        "text": ""
+      },
+      {
+        "url": "https://files.catbox.moe/eq96g0.png",
         "text": ""
       }
     ],
@@ -45,7 +58,11 @@
         "text": "All system is broken"
       },
       {
-        "url": "https://files.catbox.moe/bj43w5.png",
+        "url": "https://files.catbox.moe/nz4jxt.png",
+        "text": ""
+      },
+      {
+        "url": "https://files.catbox.moe/nz4jxt.png",
         "text": ""
       }
     ],
@@ -55,7 +72,11 @@
         "text": ""
       },
       {
-        "url": "",
+        "url": "https://files.catbox.moe/pqcwl6.png",
+        "text": ""
+      },
+      {
+        "url": "https://files.catbox.moe/pqcwl6.png",
         "text": ""
       }
     ]
@@ -68,17 +89,26 @@
     {
       "quote": "Missing quote for day 1",
       "author": "Unknown"
+    },
+    {
+      "quote": "Missing quote for day 2",
+      "author": "Unknown"
     }
   ],
   "stage_metadata": {
     "0": {
-      "mood": "scared",
-      "place": "manual",
+      "mood": "",
+      "place": "",
       "word": "start"
     },
     "1": {
-      "mood": "confused",
+      "mood": "curious",
       "place": "manual",
+      "word": "1987"
+    },
+    "2": {
+      "mood": "curious",
+      "place": "external",
       "word": "*"
     }
   }
