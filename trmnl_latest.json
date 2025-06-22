@@ -1,11 +1,12 @@
 {
   "_meta": {
-    "version": "V1",
+    "version": "V2",
     "notes": "testing background.",
-    "generated": "2025-06-22 "
+    "generated": "2025-06-22 05-21-49"
   },
   "user_stage_map": {
-    "confused:manual:*": 1
+    "confused:manual:*": 1,
+    "scared:control_room:start": 0
   },
   "backgrounds": {
     "manual": [
@@ -48,7 +49,7 @@
         "text": ""
       }
     ],
-    "control room": [
+    "control_room": [
       {
         "url": "https://files.catbox.moe/5st8sz.png",
         "text": "Lets try getting this fixed{{name}}"
